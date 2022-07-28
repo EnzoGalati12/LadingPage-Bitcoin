@@ -23,3 +23,10 @@
     <td>CSS</td> 
   </tr>
 </table>
+
+<hr>
+
+## Autor:
+
+<h2>Enzo de Lima Galati</h2>
+
