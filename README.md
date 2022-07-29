@@ -11,7 +11,7 @@
 
 ## Projeto:
 
-![Imagem-LadingPage-Bitcoin](https://user-images.githubusercontent.com/90585409/181528192-02b18144-ebdb-429e-a74d-497b9fc10064.png)
+
 
 ![Ladingpage-Bitcoin](https://user-images.githubusercontent.com/90585409/181583173-566d85cf-0b67-42d9-bbde-3d5a813230e9.gif)
 
